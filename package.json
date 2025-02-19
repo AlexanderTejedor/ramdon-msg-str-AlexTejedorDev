@@ -1,0 +1,27 @@
+{
+  "name": "ramdon-msg-str-alextejedordev",
+  "version": "1.0.0",
+  "description": "Rambom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderTejedor/ramdon-msg-str-AlexTejedorDev.git"
+  },
+  "keywords": [],
+  "author": "Alexander Tejedor <atromero.98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexanderTejedor/ramdon-msg-str-AlexTejedorDev/issues"
+  },
+  "homepage": "https://github.com/AlexanderTejedor/ramdon-msg-str-AlexTejedorDev#readme",
+  "bin": {
+    "ramdon-msg-str-alextejedordev": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
